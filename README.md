@@ -6,3 +6,5 @@ This Task involves calculation of the average rating of each brand for toys and 
 ## Details of Versions used:
 Spark Version: 2.2.1
 Scala: 2.11
+## Link to Datasets:
+http://jmcauley.ucsd.edu/data/amazon/links.html
